@@ -1,2 +1,1 @@
-# Crude-oil-production-data
-Getting data from EIA website
+#Heart Disease Prediction via Logistic Regression Model
